@@ -1,9 +1,9 @@
 # Progressive Future Accessibility Loss
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20130285.svg)](https://doi.org/10.5281/zenodo.20130285)
 
 Minimal computational framework exploring how recoverability-constrained dynamical systems may progressively lose operational access to future regions despite remaining dynamically active under shared external temporal progression.
-
 ---
 
 ![Recoverability trajectories](figures/observer_dependent_recoverability_trajectories.png)
