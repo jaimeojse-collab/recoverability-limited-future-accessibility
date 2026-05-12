@@ -1,0 +1,7 @@
+set_type,observer,tau_r,delay,total_accessible,largest_component,largest_component_fraction,n_components,fragmentation_index
+heterogeneous,fast,18.0,0.0,836,836,1.0,1,0.0
+heterogeneous,medium,24.0,2.0,437,437,1.0,1,0.0
+heterogeneous,slow,30.0,4.0,41,24,0.5853658536585366,3,0.41463414634146345
+homogeneous,A,24.0,2.0,424,424,1.0,1,0.0
+homogeneous,B,24.0,2.0,441,441,1.0,1,0.0
+homogeneous,C,24.0,2.0,458,458,1.0,1,0.0

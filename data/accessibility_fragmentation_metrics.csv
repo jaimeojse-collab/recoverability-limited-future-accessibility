@@ -1,0 +1,5 @@
+noise_strength,n_accessible_components,total_accessible_cells,largest_component_cells,fragmentation_index
+0.0,3,36,23,0.36111111111111116
+0.01,4,41,25,0.3902439024390244
+0.02,5,51,29,0.43137254901960786
+0.05,8,86,45,0.4767441860465116

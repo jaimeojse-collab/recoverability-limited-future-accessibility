@@ -1,0 +1,5 @@
+noise_strength,total_accessible,largest_component,largest_component_fraction,n_components
+0.0,36,23,0.6388888888888888,3
+0.01,41,25,0.6097560975609756,4
+0.02,51,29,0.5686274509803921,5
+0.05,86,45,0.5232558139534884,8

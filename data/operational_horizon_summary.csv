@@ -1,0 +1,4 @@
+observer,n_horizon_intervals,total_horizon_time,mean_horizon_duration,max_horizon_duration
+fast_observer,6,121.05000000000001,20.175,26.44999999999999
+medium_observer,3,181.50000000000003,60.50000000000001,141.60000000000002
+slow_observer,2,205.35000000000002,102.67500000000001,186.8
